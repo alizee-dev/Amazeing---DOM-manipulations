@@ -1,4 +1,4 @@
-# AMAZEing !
+# aMAZEing !
 
 A simple Maze program :
 * Using loops and the DOM to generate simple templates.
